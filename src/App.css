@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color: #020631;
+  background-color: #dbbb1b;
 }
 
 .app {
@@ -72,7 +72,7 @@ h2 {
   border-radius: 6px;
   padding: 5px;
 }
-.app .todos .todo .left {
+.app .todos .todo .left  {
   display: flex;
   justify-content: flex-start;
   align-items: center;
